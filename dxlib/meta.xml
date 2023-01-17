@@ -1,0 +1,22 @@
+<meta>
+<oop>true</oop>
+<script src="dxlib.lua" type="client" />
+
+<export function="dxCreateEditBox" type="client"/>
+<export function="setTextMasked" type="client"/>
+<export function="getValidKey" type="client"/>
+<export function="isValidEditBox" type="client"/>
+<export function="dxGetActiveEditBox" type="client"/>
+<export function="dxGetIDByName" type="client"/>
+<export function="dxGetText" type="client"/>
+<export function="dxSetText" type="client"/>
+<export function="dxSetActiveEditBox" type="client"/>
+<export function="dxDestroyEditBox" type="client"/>
+<export function="dxSetEditBoxPosition" type="client"/>
+
+<file src="fonts/myriadpro.ttf"/>
+<file src="fonts/opensans.ttf"/>
+<file src="fonts/opensans-light.ttf"/>
+<file src="fonts/opensans-semibold.ttf"/>
+<file src="fonts/roboto.ttf"/>
+</meta>

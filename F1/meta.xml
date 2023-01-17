@@ -1,0 +1,10 @@
+<meta>
+<oop>true</oop>
+<script src="client.lua" type="client" />
+<script src="server.lua" type="server" />
+
+<file src="img/car.png" />
+<file src="img/tshirt.png" />
+<file src="img/repair.png" />
+<file src="img/rip.png" />
+</meta>
